@@ -8,7 +8,7 @@
 			<key>Image File</key>
 			<string>shortcuts.png</string>
 			<key>Shell Script File</key>
-			<string>SendToShortcut.sh</string>
+			<string>sendtoshortcut.sh</string>
 			<key>Stoppable</key>
 			<true/>
 			<key>Title</key>
