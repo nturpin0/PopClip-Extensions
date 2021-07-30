@@ -6,23 +6,23 @@
 	<array>
 		<dict>
 			<key>Image File</key>
-			<string>speechicon.png</string>
+			<string>shortcuts.png</string>
 			<key>Shell Script File</key>
-			<string>say.sh</string>
+			<string>SendToShortcut.sh</string>
 			<key>Stoppable</key>
 			<true/>
 			<key>Title</key>
-			<string>Say</string>
+			<string>Send to Shortcut</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Speak the selected text aloud, using the system default voice. To change the voice, go to "Speech" in System Preferences.</string>
+	<string>Sends the selected text to the Shortcut</string>
 	<key>Extension Identifier</key>
-	<string>com.pilotmoon.popclip.extension.say</string>
+	<string>com.pilotmoon.popclip.extension.sendtoshortcut</string>
 	<key>Extension Name</key>
 	<dict>
 		<key>en</key>
-		<string>Say</string>
+		<string>sendtoshortcut</string>
 		<key>fr</key>
 		<string>Lire</string>
 	</dict>
